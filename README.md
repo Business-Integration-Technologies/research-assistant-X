@@ -92,3 +92,8 @@ Streamlit App is deployed at [ResearchXplore](https://huggingface.co/spaces/ehma
 Dockerization is complete, but registering the image is taking time due to the heavy packages
 
 Details will be added in the GitHub repo
+<img width="1919" height="895" alt="chat-with-ur-paper" src="https://github.com/user-attachments/assets/94e3193d-66d0-4822-a97b-0f7a8da64fe9" />
+<img width="1919" height="899" alt="analytics2" src="https://github.com/user-attachments/assets/5982ec3d-46aa-4209-aead-e897a848b6cf" />
+<img width="1919" height="822" alt="analytics1" src="https://github.com/user-attachments/assets/385422ac-7373-4706-bbd5-9ee3d3f35419" />
+
+
